@@ -6,4 +6,4 @@ Here, ```BeautifulSoup```  was used to interact with [Wikipedia](https://en.wiki
 
 
 #### Useful Links:
-[Will Hillier](https://careerfoundry.com/en/blog/data-analytics/web-scraping-guide/#:~:text=Web%20scraping%20(or%20data%20scraping,manipulated%20and%20analyzed%20as%20needed)
+[Will Hillier](https://careerfoundry.com/en/blog/data-analytics/web-scraping-guide/#:~:text=Web%20scraping%20(or%20data%20scraping))
